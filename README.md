@@ -5,7 +5,7 @@ Engenharia - IME no terceiro trimestre de 2022.
 
 O emprego de AM em grandes volumes de dados (big data) tem um alto custo computacional (armazenamento, processamento e 
 transmissão). Para sua completa execução, o uso de métodos de AM implica em atividades de preparação que antecedem o 
-desenvolvimento (definição do problema, identificação de recursos, seleção de algortimo, configuração, treino, testes e avaliação de acurácia) de um modelo de AM.
+desenvolvimento (definição do problema, identificação de recursos, preparação de dados, seleção de algortimo, configuração, treino, testes e avaliação de acurácia) de um modelo de AM.
 
 Estes atividades de preparação, em geral, são as seguintes: 1-Limpeza, 2-Transformação, 3-Integração/Enriquecimento, 4-Balanceamento
 de um conjunto de dados, 5-Eliminação manual de atributos, 6-Reduções de dimensionalidades e 7-Amostragem.
